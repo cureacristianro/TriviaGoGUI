@@ -74,6 +74,6 @@ public class Login : MonoBehaviour
 
     void loadWelcomeScreen()
     {
-        SceneManager.LoadScene("WelcomeScreen");
+        SceneManager.LoadScene("Dashboard");
     }
 }
