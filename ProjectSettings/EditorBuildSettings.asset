@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Login.unity
     guid: ac763649d29fbb14c94383dcd6c75b69
+  - enabled: 1
+    path: Assets/Scenes/Dashboard.unity
+    guid: 16a44e14ba2da44f0ac01609aebdd596
+  - enabled: 1
+    path: Assets/Scenes/DashboardHistory.unity
+    guid: edd7b68cc62f44763a96765a46b49431
+  - enabled: 1
+    path: Assets/Scenes/DashboardProfile.unity
+    guid: 4710a3f4025d4476f9824c68734101ef
   m_configObjects: {}
