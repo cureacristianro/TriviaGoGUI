@@ -18,4 +18,14 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Dashboard");
     }
 
+    public void LoadGame1Player()
+    {
+        SceneManager.LoadScene("Game1Player");
+    }
+
+    public void LoadGame2Players()
+    {
+        SceneManager.LoadScene("Game2Players");
+    }
+
 }
